@@ -2,5 +2,5 @@ Description: Note-taker is a simple application intended to allow a user to make
 
 Deployed application: https://hidden-bayou-44018.herokuapp.com/
 
-![Screenshot] (./public/assets/Capture.PNG)
+![image](https://user-images.githubusercontent.com/98291032/164987741-17d91be3-2e27-4e54-8750-75e15591389a.png)
 
